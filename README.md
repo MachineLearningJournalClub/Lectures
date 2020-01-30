@@ -5,3 +5,4 @@ Lectures on Python
 * Lecture2 : Boolean Variables, If-Else statements, While, a few exercises
 * Lecture3 : Commenting vs Documenting (Docstrings), Functions and Lambda Functions, File Input/Output
 * Lecture4 : Classes and UFOs
+* Lecture5 : Introduction to Matplotlib basic concepts and fundamental charts
