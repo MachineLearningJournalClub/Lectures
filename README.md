@@ -6,3 +6,4 @@ Lectures on Python
 * Lecture3 : Commenting vs Documenting (Docstrings), Functions and Lambda Functions, File Input/Output
 * Lecture4 : Classes and UFOs
 * Lecture5 : Introduction to Matplotlib basic concepts and fundamental charts
+* Lecture6 : Introduction to Numpy
